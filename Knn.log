@@ -1,0 +1,19 @@
+2025-01-20 13:44:56,855-INFO-{'n_neighbors': 4}
+2025-01-20 13:47:12,315-INFO-{'n_neighbors': 4}
+2025-01-20 13:52:15,011-INFO-{'n_neighbors': 4}
+2025-01-20 13:53:17,284-INFO-{'n_neighbors': 4}
+2025-01-20 13:56:37,417-INFO-{'n_neighbors': 4}
+2025-01-20 13:57:53,468-INFO-{'n_neighbors': 4}
+2025-01-20 13:59:25,935-INFO-{'n_neighbors': 4}
+2025-01-20 14:01:58,282-INFO-{'n_neighbors': 4}
+2025-01-20 14:03:41,818-INFO-{'n_neighbors': 4}
+2025-01-20 14:07:57,413-INFO-{'n_neighbors': 4}
+2025-01-20 14:08:06,219-INFO-{'n_neighbors': 4}
+2025-01-20 14:09:08,191-INFO-0.7986928104575164
+2025-01-20 14:09:08,191-INFO-OrderedDict([('n_neighbors', 3)])
+2025-01-20 14:14:22,508 - INFO - Best parameters (GridSearchCV): {'n_neighbors': 4}
+2025-01-20 14:14:22,545 - INFO - Train accuracy: 0.8682634730538922
+2025-01-20 14:14:22,545 - INFO - Test accuracy: 0.8809523809523809
+2025-01-20 14:14:30,309 - INFO - Best parameters (RandomizedSearchCV): {'n_neighbors': 4}
+2025-01-20 14:15:20,791 - INFO - Best score (BayesSearchCV): 0.8075460487225193
+2025-01-20 14:15:20,791 - INFO - Best parameters (BayesSearchCV): OrderedDict([('n_neighbors', 3)])
